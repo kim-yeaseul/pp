@@ -1,2 +1,0 @@
-# work-space
-# web-programming
